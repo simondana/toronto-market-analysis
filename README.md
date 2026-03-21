@@ -1,5 +1,3 @@
-# toronto-market-analysis
-Toronto stock analysis using Python to evaluate performance, volatility, and diversification.
 # Toronto Stock Market Analysis 📊
 
 ## Overview
@@ -156,4 +154,4 @@ python stock_analysis.py
 ## Author
 
 Dana Simon
-
+University of Toronto – Mathematical Sciences & Applied Statistics
